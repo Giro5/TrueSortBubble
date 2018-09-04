@@ -1,0 +1,7 @@
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\bin\Debug\TrueSortBubble.exe.config
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\bin\Debug\TrueSortBubble.exe
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\bin\Debug\TrueSortBubble.pdb
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\obj\Debug\TrueSortBubble.csprojResolveAssemblyReference.cache
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\obj\Debug\TrueSortBubble.csproj.CoreCompileInputs.cache
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\obj\Debug\TrueSortBubble.exe
+C:\Users\Giro\source\repos\TrueSortBubble\TrueSortBubble\obj\Debug\TrueSortBubble.pdb
